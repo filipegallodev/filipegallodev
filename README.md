@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://cliply.co/wp-content/uploads/2019/06/401906190_ITS_COMPLICATED_400px.gif" />
 </p>
-Follow me on [Instagram!](https://www.instagram.com/filipe.gallo/)
-Connect with me on my [LinkedIn](https://www.linkedin.com/in/filipegallo/)
+<p>Follow me on [Instagram!](https://www.instagram.com/filipe.gallo/)</p>
+<p>Connect with me on my [LinkedIn](https://www.linkedin.com/in/filipegallo/)</p>
 <!--
 Follow me on [Instagram](https://www.instagram.com/filipe.gallo/)
 ![Test](https://cliply.co/wp-content/uploads/2019/06/401906190_ITS_COMPLICATED_400px.gif)
