@@ -1,8 +1,8 @@
 ## Hi there 👋
-![Test](https://upload.wikimedia.org/wikipedia/commons/5/57/CodingCactus_logo.gif)
+
 <!--
 Follow me on [Instagram](https://www.instagram.com/filipe.gallo/)
-
+![Test](https://upload.wikimedia.org/wikipedia/commons/5/57/CodingCactus_logo.gif)
 
 
 
