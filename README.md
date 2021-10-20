@@ -6,8 +6,8 @@
 
 <p>Follow and connect with me:
 <ul>
-  <li><a href="https://www.instagram.com/filipe.gallo/" target="_blank" rel="external">Instagram</a>
-  <li><a href="https://www.linkedin.com/in/filipegallo/" target="_blank" rel="external">LinkedIn</a>
+  <li><a href="https://www.instagram.com/filipe.gallo/">Instagram</a>
+  <li><a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a>
 </ul>
 <!--
 
