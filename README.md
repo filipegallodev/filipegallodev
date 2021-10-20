@@ -1,5 +1,5 @@
 # Hi there 👋
-![Test](https://thumbs.gfycat.com/BarrenGreenKitfox-mobile.mp4)
+
 <!--
 Follow me on [Instagram](https://www.instagram.com/filipe.gallo/)
 ![Test](https://thumbs.gfycat.com/BarrenGreenKitfox-mobile.mp4)
