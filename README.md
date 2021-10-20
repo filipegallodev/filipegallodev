@@ -3,12 +3,14 @@
 <p align="center">
   <img src="https://cliply.co/wp-content/uploads/2019/06/401906190_ITS_COMPLICATED_400px.gif" />
 </p>
-<p>Follow me on [Instagram!](https://www.instagram.com/filipe.gallo/)</p>
-<p>Connect with me on my [LinkedIn](https://www.linkedin.com/in/filipegallo/)</p>
+<ul>
+  <li><a href="https://www.instagram.com/filipe.gallo/">Instagram</a>
+  <li><a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a>
+</ul>
 <!--
-Follow me on [Instagram](https://www.instagram.com/filipe.gallo/)
-![Test](https://cliply.co/wp-content/uploads/2019/06/401906190_ITS_COMPLICATED_400px.gif)
 
+<p>Follow me on <a href="https://www.instagram.com/filipe.gallo/">Instagram</a></p>
+<p>Connect with me on my <a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a></p>
 
 
 **filipegallodev/filipegallodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
