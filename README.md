@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Hi there 👋</h1>
+# <p align="center"> Hi there 👋 </p>
 
 <p align="center">
   <img src="https://cliply.co/wp-content/uploads/2019/06/401906190_ITS_COMPLICATED_400px.gif" />
