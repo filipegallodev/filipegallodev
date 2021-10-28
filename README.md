@@ -9,6 +9,7 @@
   <li><a href="https://www.instagram.com/filipe.gallo/">Instagram</a>
   <li><a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a>
 </ul>
+<p>Estudando HTML5, CSS3 e JavaScript!
 <!--
 
 <p>Follow me on <a href="https://www.instagram.com/filipe.gallo/">Instagram</a></p>
