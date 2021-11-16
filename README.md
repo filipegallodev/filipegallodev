@@ -10,6 +10,8 @@
   <li><a href="https://www.instagram.com/filipe.gallo/">Instagram</a>
   <li><a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a>
 </ul>
+[![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+](https://www.linkedin.com/in/filipegallo/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
 
