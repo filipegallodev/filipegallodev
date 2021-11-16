@@ -6,28 +6,31 @@
 
 
 <h2>Follow and connect with me:</h2>
-<ul>
-  <li><a href="https://www.instagram.com/filipe.gallo/">Instagram</a>
-  <li><a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a>
-</ul>
-
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/filipe.gallo/)
+<p>
+  <a href="https://www.linkedin.com/in/filipegallo/">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/filipe.gallo/">
+    <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/filipe.gallo/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
 
 <h2>Technologies:</h2>
 <p>
   <a href="#">
-    <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=appveyor&logo=html5&logoColor=white" />
   </a>
   <a href="#">
     <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=appveyor&logo=css3&logoColor=white" />
   </a>
   <a href="#">
-    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=appveyor&logo=javascript&logoColor=%23F7DF1E" />
   </a>
   <a href="#">
-    <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=appveyor&logo=python&logoColor=ffdd54" />
   </a>
 </p>
 <p>Studying now HTML5, CSS3 and JavaScript!
