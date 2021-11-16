@@ -13,10 +13,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&theme=algolia)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipegallodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipegallodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p>Follow me on <a href="https://www.instagram.com/filipe.gallo/">Instagram</a></p>
 <p>Connect with me on my <a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a></p>
 
