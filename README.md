@@ -8,10 +8,7 @@
 <h2>Follow and connect with me:</h2>
 <p>
   <a href="https://www.linkedin.com/in/filipegallo/">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/filipe.gallo/">
-    <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/filipe.gallo/">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -21,16 +18,16 @@
 <h2>Technologies:</h2>
 <p>
   <a href="#">
-    <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=appveyor&logo=html5&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
   <a href="#">
-    <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=appveyor&logo=css3&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
   <a href="#">
-    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=appveyor&logo=javascript&logoColor=%23F7DF1E" />
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
   <a href="#">
-    <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=appveyor&logo=python&logoColor=ffdd54" />
+    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
 
