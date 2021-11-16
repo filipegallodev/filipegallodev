@@ -10,9 +10,9 @@
   <li><a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a>
 </ul>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=appveyor&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=appveyor&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=appveyor&logo=css3&logoColor=white)
 
 <p>Studying now HTML5, CSS3 and JavaScript!
 
