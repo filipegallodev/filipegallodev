@@ -4,7 +4,8 @@
   <img src="https://cliply.co/wp-content/uploads/2019/06/401906190_ITS_COMPLICATED_400px.gif" />
 </p>
 
-<p>Follow and connect with me:
+
+<h2>Follow and connect with me:</h2>
 <ul>
   <li><a href="https://www.instagram.com/filipe.gallo/">Instagram</a>
   <li><a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a>
