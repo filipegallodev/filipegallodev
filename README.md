@@ -13,6 +13,9 @@
   <a href="https://www.instagram.com/filipe.gallo/">
     <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/filipe.gallo/">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <h2>Technologies:</h2>
