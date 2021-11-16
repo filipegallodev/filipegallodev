@@ -10,7 +10,9 @@
   <li><a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a>
 </ul>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 <p>Studying now HTML5, CSS3 and JavaScript!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&theme=algolia)
