@@ -1,7 +1,7 @@
 # <p align="center"> Hello!! Welcome to my profile, I'm Filipe 👋😆 </p>
 
 <p align="center">
-  <img src="https://cliply.co/wp-content/uploads/2019/06/401906190_ITS_COMPLICATED_400px.gif" />
+  <img src="https://c.tenor.com/o23PLsTxPLoAAAAd/wallpaper.gif" />
 </p>
 
 
@@ -34,8 +34,11 @@
 <p>Studying now HTML5, CSS3 and JavaScript!</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&theme=algolia)
-  
+
+
 <!--
+https://cliply.co/wp-content/uploads/2019/06/401906190_ITS_COMPLICATED_400px.gif
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipegallodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p>Follow me on <a href="https://www.instagram.com/filipe.gallo/">Instagram</a></p>
 <p>Connect with me on my <a href="https://www.linkedin.com/in/filipegallo/">LinkedIn</a></p>
