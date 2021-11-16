@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/filipegallo/">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/filipe.gallo/">
+  <a href="https://www.instagram.com/filipe.gallo/">
     <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" />
   </a>
 </p>
