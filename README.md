@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
 
-# Technologies:
+<h2>Technologies:</h2>
 <p>
   <a href="#">
     <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
