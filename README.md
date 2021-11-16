@@ -12,6 +12,8 @@
 <p>Studying now HTML5, CSS3 and JavaScript!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true)
+
 
 <!--
 
