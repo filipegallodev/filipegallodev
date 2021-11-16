@@ -15,8 +15,6 @@
   </a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?username=filipegallodev)
-
 <h2>Technologies:</h2>
 <p>
   <a href="#">
