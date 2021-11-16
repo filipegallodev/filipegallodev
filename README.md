@@ -14,9 +14,6 @@
     <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" />
   </a>
 </p>
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/filipe.gallo/)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
 
 <h2>Technologies:</h2>
 <p>
@@ -33,7 +30,8 @@
     <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=appveyor&logo=python&logoColor=ffdd54" />
   </a>
 </p>
-<p>Studying now HTML5, CSS3 and JavaScript!
+
+<p>Studying now HTML5, CSS3 and JavaScript!</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&theme=algolia)
   
