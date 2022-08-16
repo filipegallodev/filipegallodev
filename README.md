@@ -1,7 +1,7 @@
 # Hello, Wor... Visitor*! Welcome, I'm Filipe 👽✌️
 
 ## 👨🏻‍💻 About me
-I'm __Software Developer Intern__ at <a href="https://www.sequoialog.com.br/">_Sequoia Soluções Logísticas_</a> and __Analysis and Systems Development Student__ at <a href="https://www.uninter.com/">_UNINTER_</a>, in Brazil!
+I'm __Software Developer Intern__ at <a href="https://www.sequoialog.com.br/">___Sequoia Soluções Logísticas___</a> and __Analysis and Systems Development Student__ at <a href="https://www.uninter.com/">___UNINTER___</a>, in Brazil!
 
 ## 🛠 Technologies & Tools
 Currently, these are the languages I can work with:
