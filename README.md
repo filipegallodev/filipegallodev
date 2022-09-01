@@ -20,8 +20,8 @@ Currently, these are the languages I can work with:
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&include_all_commits=true&theme=github_dark)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipegallodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
---!>
+<a href="https://github.com/filipegallodev/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio&theme=github_dark" />
+</a>
