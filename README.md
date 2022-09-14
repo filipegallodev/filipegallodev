@@ -24,6 +24,6 @@ Currently, these are the technologies which I have experience with projects:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&include_all_commits=true&theme=github_dark)
 
-<a href="https://github.com/filipegallodev/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio&theme=github_dark" />
+<a href="https://github.com/filipegallodev/portfolio-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio-react&theme=github_dark" />
 </a>
