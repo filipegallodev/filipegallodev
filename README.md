@@ -3,7 +3,7 @@ Este é meu humilde __GitHub__, sinta-se à vontade para dar uma olhada e me con
 
 <br>
 
-### 👨🏻‍💻 Sobre mim
+## 👨🏻‍💻 Sobre mim
 Sou __Desenvolvedor Front-End__ e __Estagiário de TI__. Também sou estudante de Análise e Desenvolvimento de Sistemas. Um Dev apaixonado por tecnologias em geral, jogos, futebol, filmes e séries.
 
 Mais abaixo você encontrará meu site, que contém meu portfólio com os projetos que já desenvolvi!
