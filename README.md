@@ -22,8 +22,8 @@ Atualmente, essas são as linguagens e tecnologias que tenho experiência:
 <a href="https://www.linkedin.com/in/filipegallo/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 ### 🖥 Meu site com portfólio:
-<a href="https://github.com/filipegallodev/portfolio-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio-react&theme=github_dark" />
+<a href="https://github.com/filipegallodev/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio&theme=github_dark" />
 </a>
 
 <hr>
