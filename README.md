@@ -20,8 +20,8 @@ Mais abaixo você encontrará meu site, que contém meu portfólio com os projet
 <a href="https://www.linkedin.com/in/filipegallo/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 ### 🖥 Meu site com portfólio:
-<a href="https://github.com/filipegallodev/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio&theme=github_dark" />
+<a href="https://github.com/filipegallodev/portfolio-nextjs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio-nextjs&theme=github_dark" />
 </a>
 
 <hr>
