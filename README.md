@@ -1,31 +1,38 @@
-# Bem-vindo ✌️
-Seja muito bem-vindo ao meu __GitHub__, sinta-se à vontade para dar uma olhada e me conhecer um pouco!
+## Welcome ✌️
+---
+### 👨🏻‍💻 About me :
+I'm __Front End Developer__ from Brazil.
 
-### 👨🏻‍💻 Sobre mim
-Sou __Desenvolvedor Front-End__ e __Estagiário de Desenvolvimento de Sistemas__. Também, faço faculdade de Análise e Desenvolvimento de Sistemas. Fora do mundo de dev, sou apaixonado por tecnologias em geral, jogos, futebol, filmes e séries.
+- :telescope: I’m working as a Software Developer Intern and contributing to frontend for building web applications.
 
-Mais abaixo você encontrará meu site, que contém meu portfólio com os projetos que já desenvolvi!
+- :seedling: Constantly working on my skills in Next/React.
 
-### 🛠 Stack
-- ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+- :zap: In my free time, I learn more from courses and make personal projects to apply my knowlegment.
 
-### 🤝 Se conecte comigo
-<a href="https://www.linkedin.com/in/filipegallo/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-filipegallo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
 
-### 🖥 Meu site com portfólio:
+### 🛠 Language and Tools :
+<div>
+  <h4>Front End :</h4>
+  <img src="https://i.imgur.com/Sewmasb.png" title="Next.js" alt="Next.js" width="auto" height="54"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="auto" height="54"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="auto" height="54"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="auto" height="54"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="auto" height="54"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="auto" height="54"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="auto" height="54"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material-UI" alt="Material-UI" width="auto" height="54"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="auto" height="54"/>&nbsp;
+  <h4>Back End :</h4>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" alt="Node.js" width="auto" height="54"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="auto" height="54"/>&nbsp;
+</div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filipegallodev&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&include_all_commits=true&theme=github_dark)
+
+### 🖥 Portfolio:
 <a href="https://github.com/filipegallodev/portfolio-nextjs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio-nextjs&theme=github_dark" />
 </a>
-
-<hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&include_all_commits=true&theme=github_dark)
