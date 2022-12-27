@@ -14,7 +14,6 @@ I'm __Front End Developer__ from Brazil.
 
 ### 🛠 Language and Tools :
 <div>
-  <h4>Front End :</h4>
   <img src="https://i.imgur.com/Sewmasb.png" title="Next.js" alt="Next.js" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="auto" height="54"/>&nbsp;
@@ -24,9 +23,6 @@ I'm __Front End Developer__ from Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material-UI" alt="Material-UI" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="auto" height="54"/>&nbsp;
-  <h4>Back End :</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" alt="Node.js" width="auto" height="54"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="auto" height="54"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
