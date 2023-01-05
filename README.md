@@ -6,7 +6,7 @@ I'm __Front End Developer__ from Brazil.
 
 - :telescope: I’m working as a Software Developer Intern and contributing to frontend for building web applications.
 
-- :seedling: Constantly working on my skills in Next/React.
+- :seedling: Constantly working on my skills in React/JavaScript.
 
 - :zap: In my free time, I learn more from courses and make personal projects to apply my knowlegment.
 
