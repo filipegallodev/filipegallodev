@@ -30,6 +30,7 @@ I'm __Front End Developer__ from Brazil.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&include_all_commits=true&theme=github_dark)
 
 ### 🖥 Portfolio:
+<p>https://filipegallo.dev/</p>
 <a href="https://github.com/filipegallodev/portfolio-nextjs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio-nextjs&theme=github_dark" />
 </a>
