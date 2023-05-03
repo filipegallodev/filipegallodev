@@ -1,7 +1,7 @@
 # Welcome ✌️
 
 
-### 👨🏻‍💻 About me :
+### 👨🏻‍💻 About me
 I'm __Front End Developer__ from Brazil.
 
 - :telescope: I’m working as a Software Developer Intern and contributing to frontend for building web applications.
@@ -12,7 +12,7 @@ I'm __Front End Developer__ from Brazil.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-filipegallo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
 
-### 🛠 Language and Tools :
+### 🛠 Language and Tools
 <div>
   <img src="https://i.imgur.com/Sewmasb.png" title="Next.js" alt="Next.js" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="auto" height="54"/>&nbsp;
@@ -27,11 +27,11 @@ I'm __Front End Developer__ from Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="auto" height="54"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filipegallodev&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&include_all_commits=true&theme=github_dark)
 
-### 🖥 Portfolio:
+### 🖥 Portfolio
 <p>https://filipegallo.dev/</p>
 <a href="https://github.com/filipegallodev/portfolio-nextjs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio-nextjs&theme=github_dark" />
