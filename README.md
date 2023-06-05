@@ -15,9 +15,9 @@ I'm __Front End Developer__ from Brazil.
 ### 🛠 Language and Tools
 <div>
   <img src="https://i.imgur.com/Sewmasb.png" title="Next.js" alt="Next.js" width="auto" height="54"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="auto" height="54"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="auto" height="54"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="auto" height="54"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="auto" height="54"/>&nbsp;  
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="Redux.js" alt="Redux.js" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="auto" height="58"/>&nbsp;
   <img src="https://styled-components.com/logo.png" title="Styled-components" alt="Styled-components" width="auto" height="54"/>&nbsp;
