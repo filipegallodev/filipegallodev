@@ -4,11 +4,11 @@
 ### 👨🏻‍💻 About me
 I'm __Front End Developer__ from Brazil.
 
-- :telescope: I’m working as a Software Developer Intern and contributing to frontend for building web applications.
+- :telescope: I’m working as a Systems Development Intern and contributing to frontend for building web applications.
 
 - :seedling: Constantly working on my skills in Next.js/TypeScript.
 
-- :zap: In my free time, I learn more from courses and make personal projects to apply my knowlegment.
+- :zap: In my free time, I learn more from courses and make personal projects to apply my knowlegment and skills.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-filipegallo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
 
