@@ -2,7 +2,7 @@
 
 
 ### 👨🏻‍💻 About me
-I'm __Front End Developer__ from Brazil.
+I'm __Front-End Developer__ from Brazil.
 
 - :telescope: I’m working as a Systems Development Intern and contributing to frontend for building web applications.
 
