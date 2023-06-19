@@ -14,7 +14,7 @@ I'm __Front End Developer__ from Brazil.
 
 ### 🛠 Language and Tools
 
-### Frontend
+### Front-End
 <div>
   <img src="https://i.imgur.com/Sewmasb.png" title="Next.js" alt="Next.js" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="auto" height="54"/>&nbsp;
@@ -27,7 +27,7 @@ I'm __Front End Developer__ from Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="auto" height="60"/>&nbsp;
 </div>
 
-### Backend
+### Back-End
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="auto" height="54"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="auto" height="54"/>&nbsp;
