@@ -4,13 +4,13 @@
 ### 👨🏻‍💻 About me
 I'm __Front-End Developer__ from Brazil.
 
-- :telescope: I’m working as a Systems Development Intern and contributing to frontend for building web applications.
+- :telescope: I’m working as a Systems Development Intern and contributing to building functional and beautiful web applications.
 
-- :seedling: Constantly working on my skills in Next.js/TypeScript.
+- :seedling: Constantly working on my skills in Next.js | TypeScript | Redux.js | Styled-components. I like backend too, such as Node.js | Express.js. Also, I always aim to learn the best design patterns.
 
-- :zap: In my free time, I learn more from courses and make personal projects to apply my knowlegment and skills.
+- :zap: In my free time, I learn more from courses, documentations and make personal projects to apply my knowlegment, skills or test some technologies.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-filipegallo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
+- :mailbox: Feel free to connect and chat with me: [![Linkedin Badge](https://img.shields.io/badge/-filipegallo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
 
 ### 🛠 Language and Tools
 
@@ -37,7 +37,7 @@ I'm __Front-End Developer__ from Brazil.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filipegallodev&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&include_all_commits=true&theme=github_dark)
 
-### 🖥 Portfolio
+### 🖥 Check my Portfolio!
 <p>https://filipegallo.dev/</p>
 <a href="https://github.com/filipegallodev/portfolio-nextjs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=filipegallodev&repo=portfolio-nextjs&theme=github_dark" />
