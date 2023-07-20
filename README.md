@@ -8,6 +8,8 @@ I'm __Front-End Developer__ from Brazil.
 
 - :seedling: Constantly working on my skills in Next.js | TypeScript | Redux.js | Styled-components. I like backend too, such as Node.js | Express.js. Also, I always aim to learn the best design patterns.
 
+- :books: Learning now: Java and Angular.
+
 - :zap: In my free time, I learn more from courses, documentations and make personal projects to apply my knowlegment, skills or test some technologies.
 
 - :mailbox: Feel free to connect and chat with me: [![Linkedin Badge](https://img.shields.io/badge/-filipegallo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
