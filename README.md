@@ -35,6 +35,12 @@ I'm __Front-End Developer__ from Brazil.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="auto" height="54"/>&nbsp;
 </div>
 
+### Learning
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="auto" height="54"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" title="Angular" alt="Angular" width="auto" height="54"/>&nbsp;
+</div>
+
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filipegallodev&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipegallodev&show_icons=true&include_all_commits=true&theme=github_dark)
