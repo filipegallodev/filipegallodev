@@ -2,11 +2,9 @@
 
 
 ### 👨🏻‍💻 About me
-I'm __Front-End Developer__ from Brazil.
+I'm __Software Developer__ from Brazil.
 
-- :telescope: I’m working as a Systems Development Intern and contributing to building functional and beautiful web applications.
-
-- :seedling: Constantly working on my skills in Next.js | TypeScript | Redux.js | Styled-components. I like backend too, such as Node.js | Express.js. Also, I always aim to learn the best design patterns.
+- :telescope: I’m working as a Software Developer and contributing to building functional and beautiful web applications.
 
 - :books: Learning now: Java and Angular.
 
@@ -18,6 +16,7 @@ I'm __Front-End Developer__ from Brazil.
 
 ### Front-End
 <div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" title="Angular" alt="Angular" width="auto" height="54"/>&nbsp;
   <img src="https://i.imgur.com/Sewmasb.png" title="Next.js" alt="Next.js" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="auto" height="54"/>&nbsp;  
@@ -31,14 +30,9 @@ I'm __Front-End Developer__ from Brazil.
 
 ### Back-End
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="auto" height="54"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="auto" height="54"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="auto" height="54"/>&nbsp;
-</div>
-
-### Learning
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="auto" height="54"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" title="Angular" alt="Angular" width="auto" height="54"/>&nbsp;
 </div>
 
 ### :fire: My Stats
