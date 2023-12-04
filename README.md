@@ -4,11 +4,11 @@
 ### 👨🏻‍💻 About me
 I'm __Full-Stack Developer__ from Brazil.
 
-- :telescope: I’m working as a Software Developer and contributing to building functional and beautiful web applications.
+- 🔭 I’m working as a Software Developer and contributing to building functional and beautiful web applications.
 
-- :zap: In my free time, I learn more from courses, documentations and make personal projects to apply my knowlegment, skills or test some technologies.
+- ⚡ In my free time, I learn more from courses, documentations and make personal projects to apply my knowlegment, skills or test some technologies.
 
-- :mailbox: Feel free to connect and chat with me: [![Linkedin Badge](https://img.shields.io/badge/-filipegallo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
+- 📬 Feel free to connect and chat with me: [![Linkedin Badge](https://img.shields.io/badge/-filipegallo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipegallo/)
 
 ### 🛠 Language and Tools
 
