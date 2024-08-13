@@ -2,7 +2,7 @@
 
 
 ### 👨🏻‍💻 About me
-I'm __Back-End Developer__ from Brazil.
+I'm __Software Developer__ from Brazil.
 
 - 🔭 I’m working as a Software Developer and contributing to building functional and beautiful web applications.
 
